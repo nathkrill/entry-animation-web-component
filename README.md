@@ -24,8 +24,8 @@ Web Component to easily handle scroll entry animations
 
 ## Events
 
- | | |
---- | --- | ---
+Event Name | Description
+--- | --- 
 `enterStart` | Fired when the element first enters the viewport
 `enterQuarter` | Fires when the element is 25% of the way in
 `enterHalf` | Fires when the element is half-way in the viewport
