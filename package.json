@@ -1,0 +1,26 @@
+{
+  "name": "entry-animation-web-component",
+  "version": "1.0.0",
+  "description": "Web Component for easy handling of scroll entry animations",
+  "main": "dist/js/entry-animation.min.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "webpack": "webpack --config webpack.config.js",
+    "develop": "npm-run-all webpack --parallel watch",
+    "build": "webpack --config build.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathkrill/entry-animation-web-component.git"
+  },
+  "author": "nathan.akrill@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathkrill/entry-animation-web-component/issues"
+  },
+  "homepage": "https://github.com/nathkrill/entry-animation-web-component#readme",
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
