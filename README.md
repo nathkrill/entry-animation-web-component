@@ -24,11 +24,13 @@ Web Component to easily handle scroll entry animations
 
 ## Events
 
-|enterStart|Fired when the element first enters the viewport|
-|enterQuarter|Fires when the element is 25% of the way in|
-|enterHalf|Fires when the element is half-way in the viewport|
-|enterThreeQuarters|Fires when the element is 75% of the way in|
-|enterEnd|Fires when the element is all the way in|
+ | | |
+--- | --- | ---
+`enterStart` | Fired when the element first enters the viewport
+`enterQuarter` | Fires when the element is 25% of the way in
+`enterHalf` | Fires when the element is half-way in the viewport
+`enterThreeQuarters` | Fires when the element is 75% of the way in
+`enterEnd` | Fires when the element is all the way in
 
 ## Development
 
