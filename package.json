@@ -1,6 +1,6 @@
 {
   "name": "entry-animation-web-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web Component for easy handling of scroll entry animations",
   "main": "dist/js/entry-animation.min.js",
   "scripts": {
